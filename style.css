@@ -294,9 +294,9 @@ button  {
     overflow: hidden;
 }
 
-.portfolioCover .img1 { background-image: url('img1.jpg');}
-.portfolioCover .img2 { background-image: url('img2.jpg');}
-.portfolioCover .img3 { background-image: url('img3.jpg');}
+.portfolioCover .img1 { background-image: url('img/img1.jpg');}
+.portfolioCover .img2 { background-image: url('img/img2.jpg');}
+.portfolioCover .img3 { background-image: url('img/img3.jpg');}
 
 .portfolioCover2 .img2, .portfolioCover3 .img3 {
     background-position: center;
