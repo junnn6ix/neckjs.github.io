@@ -1,4 +1,4 @@
-var visiter = confirm('Km gd kerjaan bgt mampir kesini, btw siapa nm km');
+var visiter = prompt('Km gd kerjaan bgt mampir kesini, btw siapa nm km');
 alert('Hi ' + visiter);
 
 
