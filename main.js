@@ -1,5 +1,6 @@
-var visiter = prompt('Km gd kerjaan bgt mampir kesini, btw siapa nm km');
-alert('Hi ' + visiter);
+alert('km gd krjaan bgt mampir ksini'):
+var nama = prompt('Kbtw siapa nm km?');
+alert('Hi ' + nama);
 
 
 // Menunggu dokumen HTML selesai dimuat
