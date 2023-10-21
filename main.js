@@ -1,3 +1,7 @@
+alert('km gd krjaan bgt mampir kesini');
+var nama = prompt('btw nm km siapa?');
+                  alert('Hi ' + nama);
+
 // Menunggu dokumen HTML selesai dimuat
     document.addEventListener("DOMContentLoaded", function() {
         // Mendapatkan referensi ke elemen formulir
