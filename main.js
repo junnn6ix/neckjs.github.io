@@ -1,3 +1,7 @@
+var visiter = confirm('Km gd kerjaan bgt mampir kesini, btw siapa nm km');
+alert('Hi ' + visiter);
+
+
 // Menunggu dokumen HTML selesai dimuat
     document.addEventListener("DOMContentLoaded", function() {
         // Mendapatkan referensi ke elemen formulir
