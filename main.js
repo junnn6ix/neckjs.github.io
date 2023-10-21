@@ -1,5 +1,5 @@
 alert('km gd krjaan bgt mampir ksini'):
-var nama = prompt('Kbtw siapa nm km?');
+var nama = prompt('btw siapa nm km?');
 alert('Hi ' + nama);
 
 
