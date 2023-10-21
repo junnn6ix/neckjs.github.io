@@ -1,8 +1,3 @@
-alert('km gd krjaan bgt mampir ksini'):
-var nama = prompt('btw siapa nm km?');
-alert('Hi ' + nama);
-
-
 // Menunggu dokumen HTML selesai dimuat
     document.addEventListener("DOMContentLoaded", function() {
         // Mendapatkan referensi ke elemen formulir
