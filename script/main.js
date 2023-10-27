@@ -5,7 +5,7 @@ if(nama == "ajun" || nama == "AJUN"){
 }
 if(nama == "Risma", "risma" || nama == "rsm", "rsma"){
   alert('EH ASLI INI KM ' + nama + '?');
-  var tanya = prompt('ay lgsg jadi aja!');
+  var tanya = alert('ay lgsg jadi aja!');
   if(tanya == true){
     alert('YEEEEEEEE');
   }else{
