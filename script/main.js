@@ -1,6 +1,10 @@
 alert('km gd krjaan bgt mampir kesini');
 var nama = prompt('btw nm km siapa?');
-                  alert('Hi ' + nama);
+if(nama == "ajun" || nama == "AJUN"){
+  alert('woy ' + nama + ' ganteng');
+}else{
+  alert('Hai ' + nama + '. meki');
+}
 
 // Menunggu dokumen HTML selesai dimuat
     document.addEventListener("DOMContentLoaded", function() {
