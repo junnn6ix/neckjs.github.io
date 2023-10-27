@@ -2,6 +2,6 @@
 hey there!
 introducing my first web
 
-source code is open!
+source code is open! cheers
 
 all credit to yt@NightCoder
