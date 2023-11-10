@@ -1,7 +1,12 @@
-# neckjs.github.io
-hey there!
-introducing my first web
+# USING NATIVE HTML CSS
+include <html>
+include <css>
+master()
+{
+  introducing my first web
 
-source code is open! cheers
+  source code is open! cheers
 
-all credit to yt@NightCoder
+  all credit to yt@NightCoder
+  
+}
