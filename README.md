@@ -1,4 +1,4 @@
-# USING NATIVE HTML CSS
+# JUST DUMMY
 include <html>
 include <css>
 master()
